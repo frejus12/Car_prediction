@@ -4,4 +4,4 @@ Ce petit projet consiste à l'entrainement et l'implementation d'un modèle de m
 
 Le jeu de données à été télécharger sur kaggle.
 Le site web à été conçu avec Flask et Python 3.7
-Le modèle a été entrainer et implémenter avec python 3.7 ( Pandas , Numpy, sklearn)
+Le modèle a été entrainé et implémenté avec python 3.7 ( Pandas , Numpy, sklearn)
